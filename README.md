@@ -29,7 +29,7 @@ https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubu
 * sudo apt-get install graphviz
     
 
-## Detection of ball, field and player position with an input video?
+## Detection of ball, field and player position with an input video:
 1. Open command line
 2. Change directory to TrackNet folder (TrackNet_Three_Frames_Input)
 3. using following command as example, you may need to change the command:
